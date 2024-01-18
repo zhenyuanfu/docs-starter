@@ -13,9 +13,9 @@
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My%20Sitezza%E5%95%8A",
+      "title": "My%20Sitezza%E5%95%8Az",
       "logo": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace9/a7b2854ee0be4d2d51a17a2551a57a4c/logo.png",
-      "iconRedirectUrl": "https%3A%2F%2Fapp.spreading.ai%E6%88%91%E9%A2%9D",
+      "iconRedirectUrl": "https://app.spreading.ai%E6%88%91",
       "items": [
         {
           "type": "default",
