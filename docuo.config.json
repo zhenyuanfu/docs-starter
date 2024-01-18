@@ -13,9 +13,9 @@
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Sitezz",
+      "title": "My%20Sitezza%E5%95%8A",
       "logo": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace9/a7b2854ee0be4d2d51a17a2551a57a4c/logo.png",
-      "iconRedirectUrl": "https://app.spreading.ai",
+      "iconRedirectUrl": "https%3A%2F%2Fapp.spreading.ai%E6%88%91",
       "items": [
         {
           "type": "default",
@@ -26,14 +26,19 @@
         },
         {
           "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
+          "sidebarIds": [
+            "mySidebar"
+          ],
           "label": "NavItem1",
           "position": "left",
           "docsInstanceId": "default"
         },
         {
           "type": "docSidebar",
-          "sidebarIds": ["sidebar1", "sidebar2"],
+          "sidebarIds": [
+            "sidebar1",
+            "sidebar2"
+          ],
           "label": "NavItem2",
           "position": "left",
           "docsInstanceId": "callkit"
@@ -44,14 +49,18 @@
           "items": [
             {
               "type": "docSidebar",
-              "sidebarIds": ["sidebar1"],
+              "sidebarIds": [
+                "sidebar1"
+              ],
               "label": "NavItem1",
               "position": "left",
               "docsInstanceId": "callkit"
             },
             {
               "type": "docSidebar",
-              "sidebarIds": ["sidebar2"],
+              "sidebarIds": [
+                "sidebar2"
+              ],
               "label": "NavItem2",
               "position": "left",
               "docsInstanceId": "callkit"
